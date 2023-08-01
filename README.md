@@ -6,11 +6,9 @@
 
 ## [Curso Delphi para Iniciantes](https://www.youtube.com/playlist?list=PLVetaKmuPN9_gBPcyRZ7YinNXsNPSfrwY)
 
-## [Livro sobre a linguagem Object Pascal em Inglês]()
+## [Livro sobre a linguagem Object Pascal (Inglês)](https://github.com/gustavowillam/Implementacao-de-Sistemas/blob/main/materiais/ObjectPascalHandbook_PrintVersion2_WithCover.pdf)
 
-## [Tutorial sobre o Fortes Report]()
-
-
+## [Tutorial sobre o Fortes Report](https://github.com/gustavowillam/Implementacao-de-Sistemas/blob/main/materiais/Fortes_Report%20Tutorial.pdf)
 
 
 
