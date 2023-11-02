@@ -4,7 +4,7 @@
 
 ## [Curso Delphi para Iniciantes (YouTube)](https://www.youtube.com/playlist?list=PLVetaKmuPN9_gBPcyRZ7YinNXsNPSfrwY)
 
-## [Canal Youtube - Universidade Delphi- Landerson Gomes](https://www.youtube.com/watch?v=Qu9FHnAuAyA)
+## [Universidade Delphi- Landerson Gomes (Youtube)](https://www.youtube.com/watch?v=Qu9FHnAuAyA)
 
 ## [Livro sobre a linguagem Object Pascal (Inglês)](https://github.com/gustavowillam/Implementacao-de-Sistemas/blob/main/materiais/ObjectPascalHandbook_PrintVersion2_WithCover.pdf)
 
