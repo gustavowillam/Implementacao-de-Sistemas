@@ -11,7 +11,10 @@
 ## [Programação em Delphi para Iniciantes (Português)](https://github.com/gustavowillam/Implementacao-de-Sistemas/blob/main/materiais/DelphiProgramming4Beginners_PTBR_1.1.pdf)
 Link Embarcadero: https://embarcaderobr.com.br/wp-content/uploads/2016/10/DelphiProgramming4Beginners_PTBR_1.1.pdf
 
-## [Instalando o Fortes Report (YouTube)](https://www.youtube.com/watch?v=WdOgM-ahsYE) 
+## [Instalando o Fortes Report (Video 1 - YouTube)](https://www.youtube.com/watch?v=WdOgM-ahsYE) 
+
+## [Instalando o Fortes Report (Video 2 - YouTube)](https://www.youtube.com/watch?v=MedHUrMzTzA) 
+
 
 ## [Tutorial sobre o Fortes Report](https://github.com/gustavowillam/Implementacao-de-Sistemas/blob/main/materiais/Fortes_Report%20Tutorial.pdf)
 
